@@ -1,2 +1,2 @@
 # P7
-Projet 7 du parcours de Développeur Web d'O.C.
+Projet 7 de la formation de Développeur Web d'O.C.
